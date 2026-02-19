@@ -30,5 +30,15 @@
     "LICENSE",
     "package.json",
     "readme.md"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phothinmg/textile-parser.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/phothinmg/textile-parser/issues"
+  }
 }
